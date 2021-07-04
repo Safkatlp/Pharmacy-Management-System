@@ -1,0 +1,4 @@
+Server: localhost 
+Port: 3306
+username: root
+DatabaseName: dbpharmacymanagementsystem
