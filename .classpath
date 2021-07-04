@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/java work/Pharmacy Management System/jar files/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/java work/Pharmacy Management System/jar files/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="F:/java work/Pharmacy Management System/jar files/synthetica/synthetica.jar"/>
+	<classpathentry kind="lib" path="F:/java work/Pharmacy Management System/jar files/synthetica/syntheticaAluOxide.jar"/>
+	<classpathentry kind="lib" path="F:/java work/Pharmacy Management System/jar files/synthetica/syntheticaBlackEye.jar"/>
+	<classpathentry kind="lib" path="F:/java work/Pharmacy Management System/jar files/synthetica/syntheticaBlackMoon.jar"/>
+	<classpathentry kind="lib" path="F:/java work/Pharmacy Management System/jar files/synthetica/syntheticaBlackStar.jar"/>
+	<classpathentry kind="lib" path="F:/java work/Pharmacy Management System/jar files/synthetica/syntheticaBlueIce.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/java work/Pharmacy Management System/jar files/synthetica/syntheticaBlueLight.jar"/>
+	<classpathentry kind="lib" path="F:/java work/Pharmacy Management System/jar files/synthetica/syntheticaGreenDream.jar"/>
+	<classpathentry kind="lib" path="F:/java work/Pharmacy Management System/jar files/synthetica/syntheticaMauveMetallic.jar"/>
+	<classpathentry kind="lib" path="F:/java work/Pharmacy Management System/jar files/synthetica/syntheticaOrangeMetallic.jar"/>
+	<classpathentry kind="lib" path="F:/java work/Pharmacy Management System/jar files/synthetica/syntheticaPlain.jar"/>
+	<classpathentry kind="lib" path="F:/java work/Pharmacy Management System/jar files/synthetica/syntheticaSimple2D.jar"/>
+	<classpathentry kind="lib" path="F:/java work/Pharmacy Management System/jar files/synthetica/syntheticaSkyMetallic.jar"/>
+	<classpathentry kind="lib" path="F:/java work/Pharmacy Management System/jar files/synthetica/syntheticaWhiteVision.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
